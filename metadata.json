@@ -1,0 +1,6 @@
+{
+  "name": "سيف لايف أوردر | SafeLife Order",
+  "description": "منظومة إدارة وتوزيع الأدوية والمستلزمات الطبية B2B - تتبع الطلبات، شبكة الصيدليات، المندوبين الميدانيين، كتالوج الأدوية، والصلاحيات",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
